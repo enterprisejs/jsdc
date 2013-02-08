@@ -1,7 +1,7 @@
 {
   "name": "jsdc",
   "description": "Javascript Dnode Container. Kinda works like an EJB, but javascript.",
-  "version": "0.1",
+  "version": "0.0.1",
   "maintainers": [
     {
       "name": "Charles Martin",
